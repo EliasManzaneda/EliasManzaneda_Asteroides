@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Asteroides</string>
+    <string name="mainMenu_Title">ASTEROIDES</string>
+    <string name="mainMenu_Play">JUGAR</string>
+    <string name="mainMenu_Configuration">CONFIGURAR</string>
+    <string name="mainMenu_About">ACERCA DE ...</string>
+    <string name="mainMenu_Exit">SALIR</string>
 </resources>
